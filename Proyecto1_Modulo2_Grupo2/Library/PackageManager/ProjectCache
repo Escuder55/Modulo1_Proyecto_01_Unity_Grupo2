@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638055982805111589
-    m_Hash: 448130884
+      ticks: 638056018734407428
+    m_Hash: 2610618868
   m_LockFileStatus:
     m_FilePath: D:/MASTER_REPO_DEF/Modulo1_Proyecto_01_Unity_Grupo2/Proyecto1_Modulo2_Grupo2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638055983033996501
-    m_Hash: 2912037846
+      ticks: 638056018734407428
+    m_Hash: 2184469381
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
